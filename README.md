@@ -3,4 +3,4 @@
 #### группа 6131-010402D
 #### Пчелкина Ю.Ж.
 
-1. Лабораторная №1 "Pandas" (Lab1_Pandas.ipynb)
+1. Лабораторная №1 "Pandas" (Lab1_Pandas_131_Pchelkina.ipynb)
