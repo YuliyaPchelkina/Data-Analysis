@@ -6,3 +6,4 @@
 1. Лабораторная №1 "Pandas" (Lab1_Pandas_6131_Pchelkina.ipynb)
 2. Лабораторная №2 "Визуализация данных" (Lab2_Visual_6131_Pchelkina.ipynb)
 3. Лабораторная №3 "Классификация в sklearn" (Lab3_Classification_6131_Pchelkina.ipynb)
+4. Лабораторная №4 "Деревья решений" (Lab4_Trees_6131_Pchelkina.ipynb)
