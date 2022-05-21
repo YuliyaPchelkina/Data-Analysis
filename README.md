@@ -8,3 +8,4 @@
 3. Лабораторная №3 "Классификация в sklearn" (Lab3_Classification_6131_Pchelkina.ipynb)
 4. Лабораторная №4 "Деревья решений" (Lab4_Trees_6131_Pchelkina.ipynb)
 5. Лабораторная №5 "Градиентный бустинг с Catboost" (Lab5_Catboost_6131_Pchelkina.ipynb)
+6. Лабораторная №6 "Линейная Регрессия в sklearn" (Lab6_LinearRegression_6131_Pchelkina)
